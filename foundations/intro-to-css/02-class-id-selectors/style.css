@@ -4,11 +4,11 @@
 }
 
 #n2 {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 } 
 
-.odd.n3 {
+.adjusted-font-size {
     font-size: 24px;
 }
 
